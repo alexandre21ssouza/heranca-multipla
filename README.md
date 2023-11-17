@@ -1,4 +1,4 @@
-# projeto heranca-multipla
+# Projeto heranca-multipla
 ### Projeto simulando 3 tipos de aparelhos: 
 #### Impressora(Printer) 
 #### Scanner
